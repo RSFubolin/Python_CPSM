@@ -17,7 +17,7 @@ If you extract the .zip to D, you can set D:\CPSM\data\Directional_reflectance_a
 The results go to the "results" folder, when the CPSM has been completed. The examples of the results can be seen in the results_spectral400nm_2500nm.csv, which includs spectral reflectance at 400 ~ 2500 nm with 1nm spectral resolution corresponds to each pixel. The process results will be saved in a folder, named "LUT20%". The files in LUT folder are the optimal solution space for matching. The files in RMSE folder are the matching accuracy. If you don not want to generate these intermediate process files, you can improve the source code. Because this intermediate process file occupy relatively large space.
 
 ## Statement
-The CPSM cannot be used for any commercial purposes without the author's consent. If you used the CPSM including modification, improvement and publish paper, place cite the following paper. 
+The CPSM cannot be used for any commercial purposes without the author's consent. If you used the CPSM including modification, improvement and publish paper. etc., place cite the following paper. 
 
 # Contact
 Bolin Fu: fubolin@glut.edu.cn
