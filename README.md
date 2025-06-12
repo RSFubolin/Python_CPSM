@@ -18,6 +18,7 @@ The results go to the "results" folder, when the CPSM has been completed. The ex
 
 ## Statement
 The CPSM cannot be used for any commercial purposes without the author's consent. If you used the CPSM including modification, improvement and publish paper. etc., place cite the following paper. 
+Lao, Z., Fu, B., Sun, W., Wang, Y., Zhou, Y., He, H., Deng, T., Gao, E., 2025. A novel constrained spectral matching approach for extending UAV multispectral reflectance measurements and estimating nitrogen and phosphorus contents in wetland vegetation species. Plant Phenomics 7, 100059. https://doi.org/10.1016/j.plaphe.2025.100059
 
 # Contact
 Bolin Fu: fubolin@glut.edu.cn
